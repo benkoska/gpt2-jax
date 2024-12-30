@@ -1,0 +1,7 @@
+flax
+clu
+optax
+tiktoken
+tensorflow-cpu
+jax[cuda12]
+datasets
